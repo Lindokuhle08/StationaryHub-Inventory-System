@@ -1,0 +1,5 @@
+# OrderID WarehouseID ProductID Quantity
+1 1 101 2
+1 1 102 5
+2 2 103 60
+2 2 104 1

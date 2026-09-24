@@ -1,0 +1,359 @@
+# depslib dependency file v1.0
+1774855475 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\bulkproduct.cpp
+	"BulkProduct.h"
+
+1774855460 c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\bulkproduct.h
+	"Product.h"
+
+1774852646 c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\product.h
+	<string>
+
+1774854256 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\discountproduct.cpp
+	"DiscountProduct.h"
+
+1774854240 c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\discountproduct.h
+	"Product.h"
+
+1774864034 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\order.cpp
+	"Order.h"
+	<iostream>
+
+1774864050 c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\order.h
+	<vector>
+	<string>
+	"OrderItem.h"
+
+1774868630 c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\orderitem.h
+	<string>
+	<map>
+
+1774859857 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\orderitem.cpp
+	"OrderItem.h"
+
+1774852410 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\product.cpp
+	"Product.h"
+
+1774853931 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\taxableproduct.cpp
+	"TaxableProduct.h"
+
+1774853472 c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\taxableproduct.h
+	"Product.h"
+
+1774869632 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\warehouse.cpp
+	"Warehouse.h"
+
+1774869609 c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\warehouse.h
+	<map>
+	<memory>
+	<mutex>
+	<string>
+	<iostream>
+	"Product.h"
+
+1774870014 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\inventorymanagementsystem.cpp
+	"InventoryManagementSystem.h"
+	<iostream>
+
+1774869921 c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\inventorymanagementsystem.h
+	<vector>
+	<thread>
+	<mutex>
+	<memory>
+	"Warehouse.h"
+	"Order.h"
+
+1774870353 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+	"Warehouse.h"
+	"TaxableProduct.h"
+	"DiscountProduct.h"
+	"BulkProduct.h"
+	"OrderGenerator.h"
+	"InventoryManagementSystem.h"
+
+1774870543 c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\ordergenerator.h
+	<vector>
+	<string>
+	"Order.h"
+
+1774870563 source:c:\users\bonga\documents\comp315\project [01]\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\ordergenerator.cpp
+	"OrderGenerator.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+
+1775041597 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\product.cpp
+	"Product.h"
+	<iostream>
+
+1775146513 c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\product.h
+	<string>
+
+1775042545 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\bulkproduct.cpp
+	"BulkProduct.h"
+	<iostream>
+
+1775042367 c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\bulkproduct.h
+	"Product.h"
+
+1775042743 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\discountproduct.cpp
+	"DiscountProduct.h"
+	<iostream>
+
+1775042801 c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\discountproduct.h
+	"Product.h"
+
+1775146467 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\main.cpp
+	<iostream>
+	<memory>
+	<limits>
+	<vector>
+	"InventoryManagementSystem.h"
+	"DiscountProduct.h"
+	"TaxableProduct.h"
+	"BulkProduct.h"
+	"OrderGenerator.h"
+
+1775039684 c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\warehouse.h
+	<map>
+	<vector>
+	<memory>
+	<string>
+	<mutex>
+	"Product.h"
+
+1775043604 c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\taxableproduct.h
+	"Product.h"
+
+1775146650 c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\ordergenerator.h
+	<vector>
+	<string>
+	"Order.h"
+
+1775146713 c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\order.h
+	<vector>
+	"OrderItem.h"
+
+1775039804 c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\orderitem.h
+
+1775145963 c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\inventorymanagementsystem.h
+	<vector>
+	<memory>
+	<thread>
+	<mutex>
+	"Warehouse.h"
+	"Order.h"
+
+1775039897 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\order.cpp
+	"Order.h"
+	<iostream>
+
+1775039984 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\ordergenerator.cpp
+	"OrderGenerator.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1775146126 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\inventorymanagementsystem.cpp
+	"InventoryManagementSystem.h"
+	<iostream>
+	<algorithm>
+
+1775039827 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\orderitem.cpp
+	"OrderItem.h"
+
+1775145832 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+
+1775039780 source:c:\users\221053528\downloads\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\multi-threaded real-time inventory & trading system\warehouse.cpp
+	"Warehouse.h"
+	<iostream>
+
+1775042544 source:c:\users\221053528\documents\comp315 final project\final project code\bulkproduct.cpp
+	"BulkProduct.h"
+	<iostream>
+
+1775042366 c:\users\221053528\documents\comp315 final project\final project code\bulkproduct.h
+	"Product.h"
+
+1775146512 c:\users\221053528\documents\comp315 final project\final project code\product.h
+	<string>
+
+1775042742 source:c:\users\221053528\documents\comp315 final project\final project code\discountproduct.cpp
+	"DiscountProduct.h"
+	<iostream>
+
+1775042800 c:\users\221053528\documents\comp315 final project\final project code\discountproduct.h
+	"Product.h"
+
+1777560465 source:c:\users\221053528\documents\comp315 final project\final project code\inventorymanagementsystem.cpp
+	"InventoryManagementSystem.h"
+	<iostream>
+	<algorithm>
+	<thread>
+	<functional>
+
+1777560228 c:\users\221053528\documents\comp315 final project\final project code\inventorymanagementsystem.h
+	<vector>
+	<memory>
+	<thread>
+	<mutex>
+	"Warehouse.h"
+	"Order.h"
+
+1777812881 c:\users\221053528\documents\comp315 final project\final project code\warehouse.h
+	<map>
+	<vector>
+	<memory>
+	<string>
+	<mutex>
+	"Product.h"
+
+1775146712 c:\users\221053528\documents\comp315 final project\final project code\order.h
+	<vector>
+	"OrderItem.h"
+
+1775039804 c:\users\221053528\documents\comp315 final project\final project code\orderitem.h
+
+1777812825 source:c:\users\221053528\documents\comp315 final project\final project code\main.cpp
+	<iostream>
+	<memory>
+	<limits>
+	<vector>
+	"InventoryManagementSystem.h"
+	"DiscountProduct.h"
+	"TaxableProduct.h"
+	"BulkProduct.h"
+	"OrderGenerator.h"
+
+1775043604 c:\users\221053528\documents\comp315 final project\final project code\taxableproduct.h
+	"Product.h"
+
+1775146650 c:\users\221053528\documents\comp315 final project\final project code\ordergenerator.h
+	<vector>
+	<string>
+	"Order.h"
+
+1775146694 source:c:\users\221053528\documents\comp315 final project\final project code\order.cpp
+	"Order.h"
+	<iostream>
+
+1775146620 source:c:\users\221053528\documents\comp315 final project\final project code\ordergenerator.cpp
+	"OrderGenerator.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1775146760 source:c:\users\221053528\documents\comp315 final project\final project code\orderitem.cpp
+	"OrderItem.h"
+
+1775146532 source:c:\users\221053528\documents\comp315 final project\final project code\product.cpp
+	"Product.h"
+	<iostream>
+
+1775145832 source:c:\users\221053528\documents\comp315 final project\final project code\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+
+1777813185 source:c:\users\221053528\documents\comp315 final project\final project code\warehouse.cpp
+	"Warehouse.h"
+	<iostream>
+	<algorithm>
+	<vector>
+
+1775042544 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\bulkproduct.cpp
+	"BulkProduct.h"
+	<iostream>
+
+1775042366 c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\bulkproduct.h
+	"Product.h"
+
+1775146512 c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\product.h
+	<string>
+
+1775042742 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\discountproduct.cpp
+	"DiscountProduct.h"
+	<iostream>
+
+1775042800 c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\discountproduct.h
+	"Product.h"
+
+1777560465 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\inventorymanagementsystem.cpp
+	"InventoryManagementSystem.h"
+	<iostream>
+	<algorithm>
+	<thread>
+	<functional>
+
+1777560228 c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\inventorymanagementsystem.h
+	<vector>
+	<memory>
+	<thread>
+	<mutex>
+	"Warehouse.h"
+	"Order.h"
+
+1777812881 c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\warehouse.h
+	<map>
+	<vector>
+	<memory>
+	<string>
+	<mutex>
+	"Product.h"
+
+1775146712 c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\order.h
+	<vector>
+	"OrderItem.h"
+
+1775039804 c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\orderitem.h
+
+1777815367 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\main.cpp
+	<iostream>
+	<memory>
+	<limits>
+	<vector>
+	"InventoryManagementSystem.h"
+	"DiscountProduct.h"
+	"TaxableProduct.h"
+	"BulkProduct.h"
+	"OrderGenerator.h"
+
+1775043604 c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\taxableproduct.h
+	"Product.h"
+
+1775146650 c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\ordergenerator.h
+	<vector>
+	<string>
+	"Order.h"
+
+1775146694 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\order.cpp
+	"Order.h"
+	<iostream>
+
+1775146620 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\ordergenerator.cpp
+	"OrderGenerator.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1775146760 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\orderitem.cpp
+	"OrderItem.h"
+
+1775146532 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\product.cpp
+	"Product.h"
+	<iostream>
+
+1775145832 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+
+1777813185 source:c:\users\student\downloads\comp315 (2026)\code fusion final code\final project code\warehouse.cpp
+	"Warehouse.h"
+	<iostream>
+	<algorithm>
+	<vector>
+
