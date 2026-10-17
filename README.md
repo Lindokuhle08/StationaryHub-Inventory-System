@@ -106,3 +106,12 @@ A menu-driven Command-Line Interface (CLI) supports:
 - `Proposal and Report/` - original project proposal and final written report
 - `Code Fusion_src/` - full C++ source code (`main.cpp`, `Product.cpp`, `Warehouse.cpp`, `Order.cpp`, `InventoryManagementSystem.cpp`, etc.)
 - `README.md` - this project summary
+
+*Members:*
+*Lindokuhle Machangu,*
+*Bandile Mhlambu,*
+*Bongani Ntshumayelo,*
+*Lerato Mbhele,*
+*Sbonelo Ntshangase,*
+*Andile Mthembu, &*
+*Sthembiso Mchunu*
